@@ -15,6 +15,7 @@ columns:
   am: numeric
   gear: numeric
   carb: numeric
+description: test
 type: table
 filenames:
   data.csv: data.csv
