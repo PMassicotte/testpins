@@ -1,4 +1,1 @@
-- path: weather
-  name: weather
-  extension: zip
-  type: files
+[]
